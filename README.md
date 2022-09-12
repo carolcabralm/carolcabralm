@@ -5,7 +5,7 @@ _Madre Teresa de Calcutá_
 
 <div>
   <h1>Oiiii! Eu sou a Caroline Cabral!!</h1>
-  <p>Doutora em economia e DEV em formação. </p>
+  <p>Doutora em economia e DEV Full-stack. </p>
 </div>
 
 
